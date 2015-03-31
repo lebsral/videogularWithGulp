@@ -16,7 +16,6 @@
     "videogular-buffering": "~1.1.1",
     "videogular-overlay-play": "~1.1.1",
     "videogular-poster": "~1.1.1",
-    "videogular-ima-ads": "~1.1.1",
     "videogular-angulartics": "~1.1.1"
   },
   "devDependencies": {
